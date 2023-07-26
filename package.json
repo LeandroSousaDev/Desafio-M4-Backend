@@ -1,0 +1,25 @@
+{
+  "name": "desafio-backend-modulo-04-sistema-bancario-ddst11",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubos-academy/desafio-backend-modulo-04-sistema-bancario-ddst11.git"
+  },
+  "keywords": [],
+  "author": "cubos academy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cubos-academy/desafio-backend-modulo-04-sistema-bancario-ddst11/issues"
+  },
+  "homepage": "https://github.com/cubos-academy/desafio-backend-modulo-04-sistema-bancario-ddst11#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
